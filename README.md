@@ -61,7 +61,7 @@ xelatex main.tex
 xelatex main.tex
 ```
 
-或直接在 [Overleaf](https://www.overleaf.com/latex/) 打开即可。
+或直接在 [Overleaf](https://www.overleaf.com/latex/) 打开，修改编译器为XeLaTeX即可。
 
 ---
 
