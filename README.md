@@ -52,7 +52,7 @@ git clone https://github.com/Thisis8868/SEU_Course_Template_Latex.git
 
 ### 2. 编译方式（推荐）
 
-使用 **XeLaTeX**（适配中文字体），编译顺序：
+**编译器设置使用 XeLaTeX**（适配中文字体），编译顺序：
 
 ```bash
 xelatex main.tex
