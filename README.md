@@ -2,6 +2,8 @@
 东南大学课程论文 LaTeX 模板（SEU Report 模板）。
 本模板适用于东南大学课程平时论文、期末论文、课程报告等文档撰写。本模板相比毕业论文模板更加简洁、实用，可直接在[Overleaf](https://www.overleaf.com/latex/)中编译通过，非常适合课程报告的撰写。
 
+2025.12.22测试：不会编译超时。
+
 [点击预览](./东南大学通用课程大作业模板.pdf)
 
 <img width="558" height="798" alt="模板预览" src="https://github.com/user-attachments/assets/f1c1c785-d4aa-4df3-ab6c-692fc7d2cc16" />
